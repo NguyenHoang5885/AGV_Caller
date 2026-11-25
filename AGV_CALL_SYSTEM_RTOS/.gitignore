@@ -1,0 +1,17 @@
+
+# Build folders
+Debug/
+Release/
+
+# Compiled files
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+
+# Temporary files
+.DS_Store
+Thumbs.db
