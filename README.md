@@ -27,6 +27,13 @@ The AGV Call System is designed to communicate with AGV/AMR robots through an in
 
 ## 4. Hardware Design
 
+### PCB Top Layer
+
+![PCB Top](PCB_Top_V1.png)
+
+### PCB Bottom Layer
+
+![PCB Bottom](PCB_Bottom_V1.png)
 
 
 ## 5. Project Structure
