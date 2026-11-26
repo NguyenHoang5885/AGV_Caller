@@ -11,7 +11,7 @@ The AGV Call System is designed to communicate with AGV/AMR robots through an in
 
 - MCU: STM32F107RBT6
 - 8 Input, 8 Output, 4 Button
-- Wi-Fi Module: HLK-RM08S
+- Wi-Fi Module: Hi-Link
 - Operating System: FreeRTOS
 - Communication: RS485, Ethernet/Wi-Fi
 
